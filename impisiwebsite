@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iMpisi Network | Tech Solutions</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-900 text-gray-100">
+    
+    <header class="p-6 bg-gray-800 shadow-lg">
+        <h1 class="text-3xl font-bold text-center">iMpisi Network (PTY) LTD</h1>
+        <p class="text-center text-gray-400">Reliable IT & Networking Solutions</p>
+    </header>
+    
+    <section class="p-8 text-center">
+        <h2 class="text-2xl font-semibold">Welcome to iMpisi Network</h2>
+        <p class="mt-4 text-gray-400">We specialize in IT procurement, network infrastructure, and digital solutions.</p>
+    </section>
+    
+    <section class="p-8 bg-gray-800">
+        <h2 class="text-2xl font-semibold text-center">Our Services</h2>
+        <div class="mt-6 grid grid-cols-1 md:grid-cols-3 gap-6">
+            <div class="p-4 bg-gray-700 rounded-lg shadow-md">
+                <h3 class="text-xl font-semibold">IT Procurement</h3>
+                <p class="text-gray-400 mt-2">Supplying top-tier IT hardware and software solutions.</p>
+            </div>
+            <div class="p-4 bg-gray-700 rounded-lg shadow-md">
+                <h3 class="text-xl font-semibold">Network Solutions</h3>
+                <p class="text-gray-400 mt-2">Design, implementation, and maintenance of network infrastructure.</p>
+            </div>
+            <div class="p-4 bg-gray-700 rounded-lg shadow-md">
+                <h3 class="text-xl font-semibold">Cybersecurity</h3>
+                <p class="text-gray-400 mt-2">Ensuring secure IT environments with cutting-edge security measures.</p>
+            </div>
+        </div>
+    </section>
+    
+    <section class="p-8 text-center">
+        <h2 class="text-2xl font-semibold">Contact Us</h2>
+        <p class="mt-4 text-gray-400">Let's discuss how we can enhance your IT infrastructure.</p>
+        <a href="mailto:info@impisinetwork.co.za" class="mt-4 inline-block px-6 py-2 bg-blue-500 rounded-lg shadow-md hover:bg-blue-600">Email Us</a>
+    </section>
+    
+    <footer class="p-6 bg-gray-800 text-center text-gray-500">
+        &copy; 2025 iMpisi Network (PTY) LTD. All rights reserved.
+    </footer>
+    
+</body>
+</html>
